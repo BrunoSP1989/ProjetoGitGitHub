@@ -3,7 +3,7 @@
 #### Primeiro passo
 
 Você entrará nesse link -> https://git-scm.com/.
-e efetuara as instalações de acordo com o curso Introdução
+e efetuará as instalações de acordo com o curso Introdução
 do **Git** e **GitHub** da DIO (*Digital Innovation One*).
 
 #### Segundo Passo
